@@ -9,7 +9,7 @@ def connect_to_db():
         port=5433,
         database="postgres",
         user="postgres",
-        password="password"
+        password="<password>"
     )
 
 # Функция для загрузки данных в PostgreSQL
