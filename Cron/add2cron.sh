@@ -1,1 +1,1 @@
-0 3 * * * /usr/bin/python3 /root/python/get_put_data.py >> /root/python/log_file.log 2>&1
+0 3 * * * /root/python/venv/bin/python /root/python/get_put_data_metrics.py >> /root/python/log_file.log 2>&1
